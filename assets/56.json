@@ -1,0 +1,61 @@
+{
+    "name": "Impi 56",
+    "symbol": "",
+    "description": "Impi Kisogloo Memoirs - Ultra Rare Drawings of the cutest Staffordshire cross Pit Bull-terrier ever... (born Jan 2010)",
+    "seller_fee_basis_points": 750,
+    "image": "image.png",
+    
+    "attributes": [
+      {
+        "trait_type": "Ultra Rare",
+        "value": "yes"
+      },
+      {
+        "trait_type": "Ogle Eyes",
+        "value": "yes"
+      },
+      {
+        "trait_type": "Attentive",
+        "value": "yes"
+      },
+      {
+        "trait_type": "Red Collar",
+        "value": "yes"
+     },
+     {
+        "trait_type": "Head Shot",
+        "value": "yes"
+     },
+     {
+        "trait_type": "Chest",
+        "value": "yes"
+     },
+     {
+        "trait_type": "Dog Box",
+        "value": "yes"
+     },
+     {
+        "trait_type": "Dog",
+        "value": "yes"
+     }  
+    ],
+    "collection": {
+       "name": "Impi Memoirs",
+       "family": "Lord Jason's / Traders Toolbox tm Collectables"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "Image",
+      "creators": [
+        {
+          "address": "HZK62PXfD86Mp834GaB6MddH8QpdwMP1asPQmMskwMGT",
+          "share": 100
+        }
+      ]
+    }
+  }
